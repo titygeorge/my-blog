@@ -1,0 +1,20 @@
+.main{
+	height: 100vh !important;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.bg_img {
+	background: url(/assets/1.png);
+	background-size: cover !important;
+    background-repeat: no-repeat !important;
+    height: 260px;
+    width: 260px;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 767px) {
+	img{
+		width: 100%;
+	}
+}

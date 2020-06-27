@@ -1,0 +1,73 @@
+.row {
+  display: flex;
+}
+.col-sm-3 {
+  display: flex;
+  justify-content: center;
+}
+.bg {
+	background-size: cover !important;
+    background-repeat: no-repeat !important;
+    height: 190px;
+    width: 190px;
+    border-radius: 50%;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}
+.bg:hover {
+  	border-radius: 0;
+  	border-radius: 6px;
+  	transition-duration: .2s, 1s;
+  	transition-timing-function: linear, ease-in;
+  	transition-property: background, border-radius;
+  	cursor: pointer;
+}
+.arts {
+	background: url(/assets/arts.jpg);   
+}
+.sports {
+	background: url(/assets/sports.png);   
+}
+.education {
+	background: url(/assets/education.jpg);   
+}
+.travel {
+	background: url(/assets/travel.jpg);   
+}
+.flex {
+	display: flex;
+    justify-content: center;
+}
+.imgtxt {
+	position: relative;
+    top: 25%;
+}
+
+.cWhite {
+	color: white;
+}
+.cRoyal {
+	color: royalblue;
+}
+.cBlack {
+	color: black;
+}
+.category{
+	background-color: black;
+	padding: 50px 0;
+	margin:  10px 0;
+}
+@media screen and (max-width: 767px) {
+	.bg {
+		margin: 10px 0;
+	}
+}
+
+
+/* .col-sm-3:before, 
+.col-sm-3:after { 
+    content: ""; 
+    flex: 1 1; 
+    border-bottom: 2px solid #000; 
+    margin: auto; 
+} 
+    */       
