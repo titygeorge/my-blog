@@ -1,0 +1,14 @@
+{
+ "category1" : [
+ 	{
+ 		"title": "Arts",
+ 		"url": "../../assets/arts1.jpg",
+ 		"description": "Art is a diverse range of human activities in creating visual, auditory or performing artifacts (artworks), expressing the author's imaginative, conceptual ideas, or technical skill, intended to be appreciated for their beauty or emotional power. Other activities related to the production of works of art include the criticism of art, and the study of the history of art.The three classical branches of visual art are painting, sculpture and architecture. Music, theatre, film, dance, and other performing arts, as well as literature and other media such as interactive media, are included in a broader definition of the arts. Until the 17th century, art referred to any skill or mastery and was not differentiated from crafts or sciences. In modern usage after the 17th century, where aesthetic considerations are paramount, the fine arts are separated and distinguished from acquired skills in general, such as the decorative or applied arts. Though there is no generally agreed definition of what constitutes art, and has changed over time, general descriptions mention an idea of imaginative or technical skill stemming from human agency and creation. The nature of art and related concepts, such as creativity and interpretation, are explored in a branch of philosophy known as aesthetics."
+ 	},
+ 	{
+ 		"title": "Sports",
+ 		"url": "../../assets/sports1.jpg",
+ 		"description": "Sport includes all forms of competitive physical activity or games which,[1] through casual or organized participation, at least in part aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators.[2] Sports can bring positive results to one's physical health. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, simultaneously or consecutively, with one winner; in others, the contest (a match) is between two sides, each attempting to exceed the other. Some sports allow a 'tie' or 'draw', in which there is no single winner; others provide tie-breaking methods to ensure one winner and one loser. A number of contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs."
+ 	}
+ ] 
+}
